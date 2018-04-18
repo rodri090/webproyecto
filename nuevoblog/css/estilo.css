@@ -1,0 +1,63 @@
+
+body{
+    background-color:rgba(230, 217, 217, 0.801);
+
+}
+
+table  {
+    border: 2px solid #CCC;
+    height:50%;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+
+table .celda1  {
+     background-color:white;
+    text-decoration: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:17px;
+    text-align:center; 
+   
+}
+table .celda2 {
+    background-color: rgb(107, 106, 104);
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    color:white;
+    text-align:center; 
+
+}
+table .celda3 {
+    
+    font-family: Copperplate Gothic Light, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+
+}
+
+
+header {
+    background:  #C9CBCC;
+    height: 80px;      
+}
+ header .parrafo {
+     font-family: 'Times New Roman', Times, serif;
+     color:#6A6C6D  ;
+     text-align:center; 
+     font-size: 15px;
+
+ }
+     .nombre {
+     
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color:#064C6F;
+     font-size: 30px;
+     text-align:center; 
+ }
+img {
+  float: left;
+}
+
+
+
